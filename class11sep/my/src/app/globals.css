@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrpper{
+  @apply max-w-2xl px-2 mx-auto
+}

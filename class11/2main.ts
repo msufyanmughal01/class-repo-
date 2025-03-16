@@ -1,0 +1,1 @@
+import { num1 } from "./main.js";
